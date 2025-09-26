@@ -1,4 +1,4 @@
-# spotify-churn-project
+# spotify-user-rentention-insights-project
 
 Simple end-to-end example for a churn prediction pipeline:
 - feature engineering

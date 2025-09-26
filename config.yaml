@@ -1,0 +1,10 @@
+data_paths:
+  raw_dir: "src/data/raw"
+  raw_file: "spotify_churn_dataset.csv" 
+  features_dir: "src/data/features"
+  predictions_dir: "src/data/predictions"
+  model_dir: "src/data/model"
+
+ml:
+  test_size: 0.2
+  random_seed: 42
